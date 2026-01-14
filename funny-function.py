@@ -52,4 +52,4 @@ if st.button('✅ 입력 완료') and st.session_state.my_past != '':
     if st.button('🔮수정구슬 다시 보기'):
         st.session_state.my_past = ''
         
-    
+    # 수정사항 변경 테스트
