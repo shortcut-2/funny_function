@@ -76,20 +76,23 @@ FRONTEND: Streamlit
 
 
 BACKEND: Python 3.12
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 DATABASE: MySQL
 
-
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 DATA PROCESSING: Pandas, NumPy
-
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 DATA VISUALIZATION: Plotly, Matplotlib
-
+<img src="https://img.shields.io/badge/plotly-7A76FF?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/plotly-7A76FF?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 WEB SCRAPING: BeautifulSoup, Selenium
 
-
+<img src="https://img.shields.io/badge/plotly-7A76FF?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 
 
